@@ -2,6 +2,8 @@
 <h1>{{msg}}</h1>
 <button @click="genRanNum()">Generate random Number</button>
 <h2>{{random_number}}</h2>
+<h1>AUto deployment will happen on a push</h1>
+
 </template>
 
 
